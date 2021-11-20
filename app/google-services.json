@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006364976312",
+    "project_id": "signinauth-3e3d4",
+    "storage_bucket": "signinauth-3e3d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006364976312:android:fa4aaad3e3270935b1804d",
+        "android_client_info": {
+          "package_name": "com.frabbi.googlesigninauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006364976312-1e3phcvudamh5f96tdtdhl77jf13e0vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu2RwOATznQSPQfofNIGa7EqPzSzzDa-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006364976312-1e3phcvudamh5f96tdtdhl77jf13e0vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
